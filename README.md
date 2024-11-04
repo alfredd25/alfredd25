@@ -1,18 +1,58 @@
-# 💫 About Me:
-🌱 I’m currently learning TensorFlow<br><br>💬 Ask me about Python and it's libraries<br><br>📫 How to reach me alfredbiju7@gmail.com
+<h2 align="left">💫 About Me:<br><br>🌱 I’m currently learning TensorFlow<br><br>💬 Ask me about Python and it's libraries<br><br>📫 How to reach me alfredbiju7@gmail.com</h2>
 
+###
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alfredd_25) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/alfredbiju2513) 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alfredd25&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="130" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alfredd25&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="130" alt="languages graph"  />
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=alfredd25&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=alfredd25&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alfredd25&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+###
 
----
-[![](https://visitcount.itsvg.in/api?id=alfredd25&icon=0&color=0)](https://visitcount.itsvg.in)
+<img align="right" height="160" src="https://camo.githubusercontent.com/088be1d70fa37ad63d7b1681c6b4ea658d61da012adf8e7819cb58bc646fb385/68747470733a2f2f737465616d75736572696d616765732d612e616b616d616968642e6e65742f7567632f313633313934373634383936343738353437342f383143424131353137383436364444343731393541323339323332323032453738393837423731342f3f696d773d36333726696d683d33353826696d613d66697426696d706f6c6963793d4c6574746572626f7826696d636f6c6f723d253233303030303030266c6574746572626f783d74727565"  />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="30" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="30" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="30" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" alt="postgresql logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/alfredd_25/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="alfredbiju7@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="www.linkedin.com/in/alfredbiju2513" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/alfredd25/alfredd25/output/snake.svg" alt="Snake animation" />
+
+###
+
+<p align="left">Hello World!!</p>
+
+###
