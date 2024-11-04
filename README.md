@@ -49,9 +49,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/alfredd25/alfredd25/output/snake.svg" alt="Snake animation" />
-
-###
 
 <p align="left">Hello World!!</p>
 
