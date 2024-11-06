@@ -1,4 +1,4 @@
-<h2 align="left">💫 About Me:<br><br>🌱 I’m currently learning TensorFlow<br><br>💬 Ask me about Python and it's libraries<br><br>📫 How to reach me alfredbiju7@gmail.com</h2>
+<h2 align="left">💫 About Me:<br><br>🌱 I’m currently learning AI and Machine Learning<br><br><br><br>📫 How to reach me alfredbiju7@gmail.com</h2>
 
 ###
 
