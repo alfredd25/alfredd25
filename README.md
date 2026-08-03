@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfredd25&label=Profile%20views&color=0e75b6&style=flat" alt="alfredd25" /> </p>
 
-- 🔭 I'm currently working on [NutriTrack](https://github.com/alfredd25/nutritrack)
+- 🔭 I'm currently working on [NutriTrack](https://github.com/alfredd25/nutritrack) and [Kickoff Turf](https://github.com/alfredd25/Kickoff_turf)
 
 - 🌱 I'm currently learning **System Design, Kubernetes, advanced AWS**
 
